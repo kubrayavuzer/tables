@@ -4,12 +4,12 @@ Bu proje, bir sınıfın öğrenci bilgilerini listeleyen basit bir HTML tablosu
 
 ## Özellikler
 - **Tamamen responsif**: Tablo genişliği %100 olarak ayarlandı.
-- **Kolay düzenlenebilir**: HTML yapısı ve CSS kodları basit bir şekilde organize edildi.
+- **Kolay düzenlenebilir**: HTML yapısı kodları basit bir şekilde organize edildi.
 - **Ek veri sütunları**: Öğrenci bilgilerine doğum tarihi gibi yeni sütunlar eklenebilir.
 
 ## Proje Detayları
 ### 1. HTML Dosyasının Oluşturulması
-- Dosyanın adı: `sinif_tablosu.html`.
+- Dosyanın adı: `tables.html`.
 
 ### 2. Sayfa Başlığı ve Yapı
 - Sayfa başlığı `<title>` etiketi ile **Sınıf Tablosu** olarak tanımlandı.
